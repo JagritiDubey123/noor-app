@@ -1,0 +1,4 @@
+node_modules/
+noor.db
+.env
+*.log
